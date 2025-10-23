@@ -13,4 +13,3 @@ sam=employee()
 
 sam.travel("kerala")
 sam.travel("bhusawal")
-print(type(sam))
